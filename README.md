@@ -1,0 +1,1 @@
+Note: Built on [minima-stable](https://github.com/jekyll/minima/tree/2.5-stable)
